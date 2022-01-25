@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-ids/compare/v1.0.0...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#15](https://github.com/googleapis/python-ids/issues/15)) ([8e562db](https://github.com/googleapis/python-ids/commit/8e562db176932dd9413e10ada79d8460b647a56f))
+
 ## [1.0.0](https://github.com/googleapis/python-ids/compare/v0.1.0...v1.0.0) (2022-01-24)
 
 
